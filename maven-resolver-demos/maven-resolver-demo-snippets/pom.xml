@@ -75,6 +75,10 @@
     </dependency>
     <dependency>
       <groupId>org.apache.maven.resolver</groupId>
+      <artifactId>maven-resolver-impl-guice</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.maven.resolver</groupId>
       <artifactId>maven-resolver-connector-basic</artifactId>
     </dependency>
     <dependency>
